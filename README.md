@@ -4,7 +4,7 @@
 
 
 <p align="center">
-## 📝 About
+# About
 
 Food Explorer is a comprehensive web platform for a restaurant, providing users with a complete ordering and tracking experience. With features for registration, order creation, and status tracking, users can easily make and monitor their choices. Profile customization, favorite filtering, and search functions help enhance the convenience and personalization of the experience for each user.
 
@@ -38,23 +38,23 @@ ___
 
 #### - How to Run the Backend
 ```bash
-# No BackEnd insira uma porta e um secret no arquivo .env vazio
+# In the BackEnd insert a port and a secret in the empty .env file
   AUTH_SECRET=
   PORT=
 
-# Instale as dependências necessárias
+# Install the necessary dependencies
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Now start the BackEnd server
 $ npm run dev
 ```
 #### - How to Run the Frontend
 ```bash
 
-# Instale as dependências necessárias
+# Install the necessary dependencies
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Now start the BackEnd server
 $ npm run dev
 ```
 
